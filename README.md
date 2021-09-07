@@ -1,4 +1,4 @@
-# Lexicon-based Sentiment Analysis in German: Systematic Evaluation of Resources and Preprocessing Techniques"
+# Lexicon-based Sentiment Analysis in German: Systematic Evaluation of Resources and Preprocessing Techniques
 
 This repository will contain data, results, code and further material for the paper:
 <a href="https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.8.pdf">Lexicon-based Sentiment Analysis in German: Systematic Evaluation of Resources and Preprocessing Techniques</a> which was accepted for the <a href="https://konvens2021.phil.hhu.de/">KONVENS 2021 conference (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing)</a>
@@ -26,6 +26,7 @@ Authors:
 </ul>
 
 Please cite this repository and the paper as:
-Fehle, J., Schmidt, T. & Wolff, C. (2021). Lexicon-based Sentiment Analysis in German: Systematic Evaluation of Resources and Preprocessing Techniques. In Proceedings of KONVENS 2021 (pp. 86-103). Düsseldorf, Germany. <a href="https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.8.pdf">[pdf]</a>
+
+Fehle, J., Schmidt, T. & Wolff, C. (2021). Lexicon-based Sentiment Analysis in German: Systematic Evaluation of Resources and Preprocessing Techniques. In <i>Proceedings of KONVENS 2021</i> (pp. 86-103). Düsseldorf, Germany. <a href="https://konvens2021.phil.hhu.de/wp-content/uploads/2021/09/2021.KONVENS-1.8.pdf">[pdf]</a>
 
 We are currently in the process of preparing the material, so come back later!
