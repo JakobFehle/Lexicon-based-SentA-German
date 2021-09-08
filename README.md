@@ -15,13 +15,13 @@ Authors:
     <ul>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/thomas-schmidt/index.html">Website</a></li>
       <li><a href="https://twitter.com/thomasS_UniR">Twitter</a></li>
-      <li>Mail: jakob.fehle@ur.de</li>
+      <li>Mail: thomas.schmidt@ur.de</li>
     </ul>
   <li>Christian Wolff</li>
     <ul>
       <li><a href="https://www.uni-regensburg.de/sprache-literatur-kultur/medieninformatik/sekretariat-team/christian-wolff/index.html">Website</a></li>
       <li><a href="https://twitter.com/chriswolff">Twitter</a></li>
-      <li>Mail: jakob.fehle@ur.de</li>
+      <li>Mail: christian.wolff@ur.de</li>
     </ul>
 </ul>
 
